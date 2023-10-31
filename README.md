@@ -1,1 +1,1 @@
-# sort-my-shots
+# sort-my-shot
